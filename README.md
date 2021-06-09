@@ -1,1 +1,1 @@
-# Kanye-West-Quotes
+# Kanye-West-Quotes-API
